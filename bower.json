@@ -4,7 +4,7 @@
     "JAMES ZHANG <jzhang300@us.ibm.com>"
   ],
   "description": "Personality Insight's sunburst visualization",
-  "main": "",
+  "main": "bin/personality-sunburst-chart.standalone.js",
   "moduleType": [
     "node"
   ],
