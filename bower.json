@@ -1,0 +1,25 @@
+{
+  "name": "personality-sunburst",
+  "authors": [
+    "JAMES ZHANG <jzhang300@us.ibm.com>"
+  ],
+  "description": "Personality Insight's sunburst visualization",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "personality",
+    "insights",
+    "visualization"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
